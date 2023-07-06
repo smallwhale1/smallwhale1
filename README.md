@@ -19,4 +19,4 @@ I'm a junior at Brown University studying CS. Currently interested in front-end 
 
 ## Links
 
-`Portfolio` <a href="https://www.sophiezhang.dev/" target="_blank">sophiezhang.dev</a>
+`Portfolio` https://www.sophiezhang.dev/
