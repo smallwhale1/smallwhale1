@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **smallwhale1/smallwhale1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there! I'm Sophie 👋
+
+I'm a junior at Brown University studying CS 💻
+
+### Links
+
+`Portfolio` https://www.sophiezhang.dev/
