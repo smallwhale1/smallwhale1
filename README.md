@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there! I'm Sophie 👋
+# Hi there! I'm Sophie 👋
 
-I'm a junior at Brown University studying CS 💻
+I'm a junior at Brown University studying CS. Currently interested in front-end dev!
 
-### Links
+## Links
 
 `Portfolio` https://www.sophiezhang.dev/
