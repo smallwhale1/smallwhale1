@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there! I'm Sophie 👋
 
-I'm a junior at Brown University studying CS. Currently interested in front-end dev!
+I'm a junior at Brown University studying CS.
 
 ## Links
 
